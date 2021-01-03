@@ -1,32 +1,31 @@
-[
-  {
-    "albumId": 1,
-    "id": 1,
-    "username": "@love_food",
-    "title": "Two Vegan Bowls Please @cbsushi",
-    "url": "https://www.instagram.com/p/CJgvzNgIlT5/",
-    "thumbnailUrl": "https://scontent-lis1-1.cdninstagram.com/v/t51.2885-15/fr/e15/s1080x1080/135041748_2840519376177315_6452569082587010627_n.jpg?_nc_ht=scontent-lis1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=yUeczOGu5dYAX8YW4JC&tp=1&oh=f0480cf6ec35ec67fef2b7ac84fd2060&oe=601AD615",
-    "likes": 6941,
-    "comments": 328
-  },
-  {
-    "albumId": 1,
-    "id": 2,
-    "username": "@buzzfeedfood",
-    "title": "Your taste buds will reveal who you really are! Link in bio",
-    "url": "https://www.instagram.com/p/CJQ7APrAK4d/",
-    "thumbnailUrl": "https://scontent-lis1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/132849215_411610460278571_2461872953369361861_n.jpg?_nc_ht=scontent-lis1-1.cdninstagram.com&_nc_cat=111&_nc_ohc=J6C3TT8dwO4AX-fPgk5&tp=1&oh=0ce19b45600d8cfc444ff232d991f5ae&oe=601D5108",
-    "likes": 1240,
-    "comments": 192
-  },
-  {
-    "albumId": 1,
-    "id": 3,
-    "username": "@buzzfeedfood",
-    "title": "There's s'more to American food than meets the eye. Link in bio",
-    "url": "https://www.instagram.com/p/CJPqiWaoHOU/",
-    "thumbnailUrl": "https://scontent-lis1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/132031588_1042703982912144_8944602054022551172_n.jpg?_nc_ht=scontent-lis1-1.cdninstagram.com&_nc_cat=100&_nc_ohc=Qwj1cpJbtIUAX-Twtda&tp=1&oh=91032777309293593ba70eee5c66a131&oe=601D21B4",
-    "likes": 1840,
-    "comments": 120
-  }
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "@love_food",
+      "title": "Two Vegan Bowls Please @cbsushi",
+      "url": "https://www.instagram.com/p/CJgvzNgIlT5/",
+      "thumbnailUrl": "https://scontent-lis1-1.cdninstagram.com/v/t51.2885-15/fr/e15/s1080x1080/135041748_2840519376177315_6452569082587010627_n.jpg?_nc_ht=scontent-lis1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=yUeczOGu5dYAX8YW4JC&tp=1&oh=f0480cf6ec35ec67fef2b7ac84fd2060&oe=601AD615",
+      "likes": 6941,
+      "comments": 328
+    },
+    {
+      "id": 2,
+      "username": "@buzzfeedfood",
+      "title": "Your taste buds will reveal who you really are! Link in bio",
+      "url": "https://www.instagram.com/p/CJQ7APrAK4d/",
+      "thumbnailUrl": "https://scontent-lis1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/132849215_411610460278571_2461872953369361861_n.jpg?_nc_ht=scontent-lis1-1.cdninstagram.com&_nc_cat=111&_nc_ohc=J6C3TT8dwO4AX-fPgk5&tp=1&oh=0ce19b45600d8cfc444ff232d991f5ae&oe=601D5108",
+      "likes": 1240,
+      "comments": 192
+    },
+    {
+      "id": 3,
+      "username": "@buzzfeedfood",
+      "title": "There's s'more to American food than meets the eye. Link in bio",
+      "url": "https://www.instagram.com/p/CJPqiWaoHOU/",
+      "thumbnailUrl": "https://scontent-lis1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/132031588_1042703982912144_8944602054022551172_n.jpg?_nc_ht=scontent-lis1-1.cdninstagram.com&_nc_cat=100&_nc_ohc=Qwj1cpJbtIUAX-Twtda&tp=1&oh=91032777309293593ba70eee5c66a131&oe=601D21B4",
+      "likes": 1840,
+      "comments": 120
+    }
+  ]
+}
